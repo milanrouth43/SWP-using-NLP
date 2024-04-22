@@ -1,2 +1,2 @@
-# SWP-using-NLP
-Solving word problem using Natural Language Processing
+# Solving MWP-using-NLP
+Solving Math word problem by using Natural Language Processing
