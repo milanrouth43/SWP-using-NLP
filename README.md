@@ -1,2 +1,3 @@
 # Solve MWP by NLP
-Solving Math Word Problem using Natural Language Processing
+Solving Math Word Problem using Natural Language Processing.
+(machine learning , deep learning, pytorch)
